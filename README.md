@@ -1,6 +1,6 @@
 # Understanding Impact of Ozempic on obese hypertensive patients
 
-# Data Description
+## Data Description
 
 The dataset provided for analysis comprises medical claims data for obese and hypertensive patients aged 40-75, along with a subset of prescription data detailing medications dispensed to a fraction of these patients.
 
